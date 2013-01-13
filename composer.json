@@ -1,0 +1,12 @@
+{
+	"name": "mikulas/cp-tracktrace-api",
+	"authors": [{"name": "Mikulas Dite"}],
+	"license": ["BSD-3"],
+	"require": {
+		"php": ">=5.4.0",
+		"sunra/php-simple-html-dom-parser": "@dev"
+	},
+	"autoload": {
+		"files": "Tracktrace.php"
+	}
+}
