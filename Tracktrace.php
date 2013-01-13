@@ -9,7 +9,7 @@ class Tracktrace
 {
 
 	const LOCALE_CS = 'CZ';
-	const LOCALE_EN = 'CZ';
+	const LOCALE_EN = 'EN';
 
 	const URL = 'http://www.ceskaposta.cz/cz/nastroje/sledovani-zasilky.php?locale=%s&send.x=%d&send.y=%d&send=submit&go=ok&barcode=%s';
 	const PATTERN = '~^[A-Z]{2}[0-9]{9,10}[A-Z]{1,2}$~i';
